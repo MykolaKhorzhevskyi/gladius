@@ -1,0 +1,6 @@
+Model,TN,FP,FN,TP,Missed subscribers (FN/(FN+TP)),False alarms (FP/(FP+TN))
+k-NN,7769,216,742,316,0.7013,0.0271
+Decision Tree,7581,404,509,549,0.4811,0.0506
+Logistic Regression,6778,1207,199,859,0.1881,0.1512
+Random Forest,7782,203,630,428,0.5955,0.0254
+HistGradientBoosting,7712,273,555,503,0.5246,0.0342
