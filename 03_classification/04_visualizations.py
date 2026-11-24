@@ -148,6 +148,7 @@ plt.savefig(os.path.join(IMAGES_DIR, "logistic_sigmoid_curve.png"), dpi=300)
 plt.close()
 print("Частина 2 готова: logistic_regression_insights, logistic_sigmoid_curve")
 
+
 # 3. Підрахунок помилок (FN та FP) + графік впливу Last Contact Duration
 rows = []
 for name in model_names:
